@@ -29,3 +29,128 @@ html{
   height: 50px;
   margin-left: 10px;
 }
+
+
+.image-box{
+  background-size: cover;
+}
+span{
+  text-align: center;
+}
+
+.container{
+  //display: flex;
+  border-style: solid;
+  border-color: red;
+  width:1200px;
+  background-color: black;
+  margin: auto;
+}
+
+.section-1{
+  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-mission-background.jpg");
+//  background-position: center;
+//  background-repeat: no-repeat;
+  display: flex;
+  border-style: double;
+  height: 700px;
+  width: 1200px;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-2{
+  border-style: dashed;
+  display: flex;
+  //width: 1000px;
+//flex-wrap: wrap;
+  //justify-content: center;
+  text-align: center;
+}
+
+.section-2-box{
+width: 1000px;
+display: flex;
+margin: auto;
+flex-wrap: wrap;
+justify-content: center;
+//flex-direction: row;
+//margin: 20px;
+}
+
+.topic{
+  //vertical-align: middle;
+  border-style: dotted;
+  text-align: center;
+  width: 1200px;
+  background-color: black;
+}
+
+#fallberry .image-box{
+  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-berryblitz.jpg");
+  height: 200px;
+  width: 300px;
+}
+#spiced-rum .image-box{
+  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-spiced-rum.jpg");
+  height: 200px;
+  width: 300px;
+}
+
+#donuts .image-box{
+  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-donut.jpg");
+  height: 200px;
+  width: 300px;
+}
+
+#myrtle .image-box{
+  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-myrtle-ave.jpg");
+  height: 200px;
+  width: 300px;
+}
+
+#bizarre .image-box{
+  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-bedford-bizarre.jpg");
+  height: 200px;
+  width: 300px;
+}
+
+.container-3{
+  display: flex;
+  height: 500px;
+//width: 1200px;
+  justify-content: center;
+  align-items: center;
+  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-locations-background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.container-3-box-box{
+  display: flex;
+  justify-content: center;
+//width: 980px;
+//font: Helvetica;
+}
+
+.container-3-box-box div {
+  border: 3px blue solid;
+}
+
+.container-3-box-box-box{
+  background-color: black;
+  opacity: 1;
+  width: 300px;
+//height: 300px;
+text-align: center;
+//justify-content: center;
+ margin: 20px;
+}
+
+
+.container .container-4{
+  height: 200px;
+  text-align: center;
+}
+.container .container-5{
+  padding-left: 20px;
+}
