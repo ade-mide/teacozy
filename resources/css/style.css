@@ -111,7 +111,9 @@ justify-content: center;
 
 #bizarre .image-box{
 //  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-bedford-bizarre.jpg");
-background-image: url("teacozy/resources/images/img-bedford-bizarre.jpg");
+//background-image: url("teacozy/resources/images/img-bedford-bizarre.jpg");
+background-image: url("https://raw.githubusercontent.com/ade-mide/teacozy/master/resources/images/img-mission-background.jpg");
+
   height: 200px;
   width: 300px;
 }
