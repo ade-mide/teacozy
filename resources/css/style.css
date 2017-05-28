@@ -14,7 +14,7 @@ html{
 	border-bottom: 1px solid seashell;
   position: fixed;
   z-index: 2;
-  //top: 5px;
+  top: 0px;
 }
 
 .navigation span{
@@ -48,7 +48,8 @@ span{
 }
 
 .section-1{
-  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-mission-background.JPG");
+background-image: url("https://ade-mide.github.io/teacozy/resources/images/img-mission-background.jpg");
+//  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-mission-background.JPG");
 //  background-position: center;
 //  background-repeat: no-repeat;
   display: flex;
@@ -87,33 +88,35 @@ justify-content: center;
 }
 
 #fallberry .image-box{
-  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-berryblitz.jpg");
+  //background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-berryblitz.jpg");
+background-image: url("https://ade-mide.github.io/teacozy/resources/images/img-berryblitz.jpg");
   height: 200px;
   width: 300px;
 }
 #spiced-rum .image-box{
-  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-spiced-rum.jpg");
+//  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-spiced-rum.jpg");
+background-image: url("https://ade-mide.github.io/teacozy/resources/images/img-spiced-rum.jpg");
   height: 200px;
   width: 300px;
 }
 
 #donuts .image-box{
-  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-donut.jpg");
+//  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-donut.jpg");
+background-image: url("https://ade-mide.github.io/teacozy/resources/images/img-donut.jpg");
   height: 200px;
   width: 300px;
 }
 
 #myrtle .image-box{
-  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-myrtle-ave.jpg");
+//  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-myrtle-ave.jpg");
+background-image: url("https://ade-mide.github.io/teacozy/resources/images/img-myrtle-ave.jpg");
   height: 200px;
   width: 300px;
 }
 
 #bizarre .image-box{
 //  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-bedford-bizarre.jpg");
-//background-image: url("teacozy/resources/images/img-bedford-bizarre.jpg");
-background-image: url("https://raw.githubusercontent.com/ade-mide/teacozy/master/resources/images/img-mission-background.jpg");
-
+background-image: url("https://ade-mide.github.io/teacozy/resources/images/img-bedford-bizarre.jpg");
   height: 200px;
   width: 300px;
 }
@@ -124,7 +127,8 @@ background-image: url("https://raw.githubusercontent.com/ade-mide/teacozy/master
 //width: 1200px;
   justify-content: center;
   align-items: center;
-  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-locations-background.jpg");
+//  background-image: url("file:///Users/ademideadelusi-adeluyi/newWork/teaCozy/resources/images/img-locations-background.jpg");
+background-image: url("https://ade-mide.github.io/teacozy/resources/images/img-locations-background.jpg");
   background-position: center;
   background-repeat: no-repeat;
 }
